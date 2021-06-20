@@ -1,0 +1,1 @@
+Código desenvolvido a partir do PyAutoGUI para otimizar processo de upload de arquivos no GitHub. Em anexo está o vídeo demonstrativo. Thx :)
